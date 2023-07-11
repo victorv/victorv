@@ -1,4 +1,5 @@
-name: Metrics
+name: Metrics embed
+  uses: lowlighter/metrics@v3.32
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
