@@ -7,3 +7,5 @@
 </a>
 
 [![Spotify](https://victorv.vercel.app/api/spotify)](https://open.spotify.com/user/htwlow1x0vp9xyod1q5725zul)
+
+![Stats](./profile/stats.svg)
